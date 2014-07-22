@@ -1,0 +1,1 @@
+一个使用QTabQWidget的例子。
